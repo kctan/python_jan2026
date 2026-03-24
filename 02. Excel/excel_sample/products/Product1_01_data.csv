@@ -1,0 +1,30 @@
+﻿Date,Customer Name,Order #,Revenue,Sales Rep Name,Commission Rate
+1/1/2019,Alpha Software,i-100001,$202.33,Jimena Carrillo,10%
+2/1/2019,Soul Solutions,i-100002,$592.22,Emma Ford,10%
+3/1/2019,Ironavigation,i-100003,$59.44,Lily Grant,4%
+4/1/2019,Ironavigation,i-100004,$283.33,Jamie Webb,10%
+5/1/2019,Soul Solutions,i-100005,$19.00,Jamie Webb,0%
+,,,,,
+6/1/2019,Alpire,i-100006,$43.03,Emma Ford,0%
+7/1/2019,Oystertainment,i-100007,$23.34,Jimena Carrillo,0%
+8/1/2019,Titanium Systems,i-100008,$230.30,Lily Grant,10%
+9/1/2019,Surprise Media,i-100009,$430.33,Lily Grant,10%
+10/1/2019,Apexshow,i-100010,$492.32,Emma Ford,10%
+10/1/2019,Apexshow,i-100010,$492.32,Emma Ford,10%
+10/1/2019,Ironavigation,i-100011,$23.34,Jimena Carrillo,0%
+11/1/2019,Oystertainment,i-100012,$230.23,Lily Grant,10%
+12/1/2019,Rush Inc.,i-100013,$85.44,Jimena Carrillo,6%
+13/1/2019,Titanium Systems,i-100014,$79.92,Emma Ford,6%
+14/1/2019,Apexshow,i-100015,$82.99,Jimena Carrillo,6%
+15/1/2019,Ironavigation,i-100016,$72.02,Lily Grant,4%
+16/1/2019,Oystertainment,i-100017,$84.95,Emma Ford,6%
+16/1/2019,Rush Inc.,i-100018,$19.00,Lily Grant,0%
+17/1/2019,Apexshow,i-100019,$82.99,Jimena Carrillo,6%
+17/1/2019,Ironavigation,i-100020,$59.44,Emma Ford,4%
+17/1/2019,Soul Solutions,i-100021,$43.03,Jimena Carrillo,1%
+18/1/2019,Ironavigation,i-100022,$23.34,Lily Grant,0%
+19/1/2019,Alpire,i-100023,$230.30,Jimena Carrillo,10%
+20/1/2019,Apexshow,i-100024,$430.33,Emma Ford,7%
+21/1/2019,Ironavigation,i-100025,$72.02,Lily Grant,4%
+22/1/2019,Oystertainment,i-100026,$283.33,Jimena Carrillo,10%
+31/1/2019,Apexshow,i-100027,$82.99,Jimena Carrillo,6%
